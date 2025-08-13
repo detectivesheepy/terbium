@@ -1,17 +1,17 @@
 [
     {
-        "name": "Ruffle",
-        "icon": "https://tbapps.pages.dev/assets/com.tb.ruffle/icon.svg",
-        "description": "Ruffle is a Flash Player emulator built in the Rust programming language.",
-        "authors": ["Ruffle Team"],
-        "pkg-name": "Ruffle",
+        "name": "Codetabs",
+        "icon": "https://raw.githubusercontent.com/detectivesheepy/terbium/a0c22a70a682ccb4ec041fdf6630d06bab382b13/assets/linux-brands-solid-full.svg",
+        "description": "A lightweight build of VS code for Terbium OS.",
+        "authors": ["DetectiveSheepy"],
+        "pkg-name": "Codetabs",
         "wmArgs": {
             "title": {
-                "text": "Ruffle",
+                "text": "Codetabs",
                 "weight": 600
             },
-            "icon": "https://tbapps.pages.dev/assets/com.tb.ruffle/icon.svg",
-            "src": "https://ruffle.rs/demo",
+            "icon": "https://raw.githubusercontent.com/detectivesheepy/terbium/a0c22a70a682ccb4ec041fdf6630d06bab382b13/assets/linux-brands-solid-full.svg",
+            "src": "https://codetabs-five.vercel.app/",
             "size": {
                 "width": 600,
                 "height": 400
@@ -22,21 +22,21 @@
         }
     },
     {
-        "name": "YouTube",
-        "icon": "https://tbapps.pages.dev/assets/com.tb.youtube/icon.png",
-        "description": "Share your videos with friends, family, and the world.",
-        "authors": ["Google"],
-        "pkg-name": "youtube",
+        "name": "Ace",
+        "icon": "https://ace.c9.io/doc/site/images/ace-logo.png",
+        "description": "A simple code editor.",
+        "authors": ["Ace, DetectiveSheepy"],
+        "pkg-name": "ace",
         "images": [
-            "https://tbapps.pages.dev/assets/com.tb.youtube/images/1.png"
+            "https://github.com/detectivesheepy/terbium/blob/main/assets/ace.png?raw=true"
         ],
         "wmArgs": {
             "title": {
-                "text": "YouTube",
+                "text": "Ace",
                 "weight": 600
             },
-            "icon": "https://tbapps.pages.dev/assets/com.tb.youtube/icon.png",
-            "src": "https://youtube.com",
+            "icon": "https://ace.c9.io/doc/site/images/ace-logo.png",
+            "src": "https://fluffy-barnacle-embed.vercel.app/editor.html",
             "size": {
                 "width": 600,
                 "height": 400
